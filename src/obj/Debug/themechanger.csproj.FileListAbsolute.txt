@@ -22,7 +22,6 @@ D:\P\themechanger\themechanger\src\obj\Debug\themechanger.exe
 D:\P\themechanger\themechanger\src\obj\Debug\themechanger.pdb
 D:\P\themechanger\themechanger\src\bin\Debug\1438257326_instagram.ico
 D:\P\themechanger\themechanger\src\bin\Debug\ThemeSwitcher.exe
-D:\P\themechanger\themechanger\src\bin\Debug\ThemeTool.exe
 D:\P\themechanger\themechanger\src\bin\Debug\themechanger.exe
 D:\P\themechanger\themechanger\src\bin\Debug\themechanger.pdb
 D:\P\themechanger\themechanger\src\obj\Debug\themechanger.csprojResolveAssemblyReference.cache
